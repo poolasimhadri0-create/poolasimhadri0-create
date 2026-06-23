@@ -1,5 +1,5 @@
 <!-- Header Banner with Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Poola%20Simhadri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=POOLA%20SIMHADRI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=a78bfa"/>
 
 <!-- Profile Views Counter -->
 <p align="center">
