@@ -1,480 +1,237 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🌌 ANIMATED 3D HERO BANNER                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Poola%20Simhadri&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Python%20Full%20Stack%20Developer%20⚡&descAlignY=60&descSize=22&stroke=7C3AED&strokeWidth=2"/>
-
-<!-- ═══════════════════ ANIMATED INTRO ═══════════════════ -->
-
 <div align="center">
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinworlds/MartinHeinworlds/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<a href="https://github.com/poolasimhadri0-create">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=POOLA%20SIMHADRI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%E2%9A%A1&descAlignY=55&descAlign=50&descSize=20" width="100%" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Poola+Simhadri;%F0%9F%90%8D+Python+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React.js+%7C+%E2%9A%A1+FastAPI+%7C+%F0%9F%97%84%EF%B8%8F+MySQL;%E2%9C%A8+Building+Beautiful+Web+Experiences" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Multi-line Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=500&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+Hello+World!+I'm+Poola+Simhadri+%F0%9F%91%8B;%3E+Python+Full+Stack+Developer+%F0%9F%90%8D;%3E+FastAPI+%7C+ReactJS+%7C+MySQL+%F0%9F%94%A5;%3E+Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Animated Badges Row -->
-<a href="https://github.com/poolasimhadri0-create">
-  <img src="https://img.shields.io/badge/🚀_STATUS-BUILDING%20AMAZING%20THINGS-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-</a>
-&nbsp;
-<a href="https://github.com/poolasimhadri0-create">
-  <img src="https://img.shields.io/badge/💼_OPEN%20TO-OPPORTUNITIES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 <br/><br/>
 
-<!-- Animated Counter Badges -->
+<a href="https://www.linkedin.com/in/simhadri-p-a2482035b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://github.com/poolasimhadri0-create">
-  <img src="https://komarev.com/ghpvc/?username=poolasimhadri0-create&style=for-the-badge&color=7C3AED&label=✨+PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/poolasimhadri0-create?tab=followers">
-  <img src="https://img.shields.io/github/followers/poolasimhadri0-create?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=🤝+FOLLOWERS" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/poolasimhadri0-create?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/poolasimhadri0-create?style=for-the-badge&color=FF2D78&labelColor=0d1117&label=⭐+TOTAL+STARS" alt="Stars"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=poolasimhadri0-create&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
 
-<br/>
+## 🌐 3D Animated Showcase
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       🧑‍💻 ABOUT ME                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<table border="0">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
+<br/><sub><b>3D Developer</b></sub>
+</td>
+<td align="center" width="34%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;About Me
+<!-- Animated 3D Rotating Cube (pure SVG, renders on GitHub) -->
+<img src="https://raw.githubusercontent.com/Platane/Platane/output/cube.gif" width="240" onerror="this.style.display='none'" />
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="-60 -60 120 120">
+  <defs>
+    <linearGradient id="f1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#36BCF7"/><stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="f2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9333ea"/><stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="f3" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <polygon points="-25,-25 25,-25 25,25 -25,25" fill="url(#f1)" opacity="0.9"/>
+    <polygon points="25,-25 40,-40 40,10 25,25" fill="url(#f2)" opacity="0.9"/>
+    <polygon points="-25,-25 -10,-40 40,-40 25,-25" fill="url(#f3)" opacity="0.9"/>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+  </g>
+</svg>
+<br/><sub><b>3D Energy</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/238200428-3b35a982-1ab1-4f9b-8e16-d10aac8b7958.gif" width="200" />
+<br/><sub><b>Coding in Motion</b></sub>
+</td>
+</tr>
+</table>
 
-<table>
+<!-- Inline animated 3D-style SVG orbit (works on GitHub raw render via cdn) -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="600" alt="3D animated joke card" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900" alt="3D animated divider" />
+
+</div>
+
+---
+
+<table align="center" border="0">
 <tr>
 <td width="55%" valign="top">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280">
+### 🚀 About Me
 
-```js
-const poolaSimhadri = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "SQL"],
-    askMeAbout: ["FastAPI", "React", "MySQL", "Web Dev"],
-    technologies: {
-        frontEnd: {
-            js: ["ReactJS"],
-            css: ["Bootstrap", "CSS3"]
-        },
-        backEnd: {
-            python: ["FastAPI"]
-        },
-        databases: ["MySQL"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentFocus: "Full Stack Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```python
+class PoolaSimhadri:
+    def __init__(self):
+        self.name        = "Poola Simhadri"
+        self.role        = "Python Full Stack Developer"
+        self.username    = "poolasimhadri0-create"
+        self.languages   = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks  = ["React.js", "FastAPI", "Bootstrap"]
+        self.databases   = ["MySQL", "SQLite"]
+        self.passion     = "Building beautiful, scalable web apps ✨"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
+
+me = PoolaSimhadri()
+me.say_hi()
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-<br/>
-
-### ⚡ Quick Facts
-
-- 🔭 Building **full-stack apps** with FastAPI & React
-- 🌱 Learning **advanced system design** & **cloud deployment**
-- 💬 Ask me about **Python, FastAPI, ReactJS, MySQL**
-- 🎯 Goal: **Ship production-ready applications**
-- 🤝 Open to **collaborations & opportunities**
-- ⚡ Fun fact: `print("debugging")` > debugger 😄
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🛠️ TECH STACK (ANIMATED ICONS)                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Arsenal
+---
 
 <div align="center">
 
-<!-- Using skillicons.dev for beautiful animated-style icons -->
+## 🧠 Tech Stack & Tools
 
-### ⟪ Core Languages ⟫
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=4" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,bootstrap,mysql,sqlite,git,github,vscode,vite,vercel&perline=7" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<a href="https://github.com/poolasimhadri0-create">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=poolasimhadri0-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=poolasimhadri0-create&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</a>
+
+<br/>
+
+<a href="https://github.com/poolasimhadri0-create">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poolasimhadri0-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
 </a>
 
 <br/><br/>
 
-### ⟪ Frontend ⟫
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css&theme=dark&perline=4" alt="Frontend" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=poolasimhadri0-create&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 <br/><br/>
 
-### ⟪ Backend & Database ⟫
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,python,mysql&theme=dark&perline=3" alt="Backend" />
-</a>
-
-<br/><br/>
-
-### ⟪ Tools & DevOps ⟫
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5" alt="Tools" />
-</a>
-
-<br/><br/>
-
-<!-- Animated Tech Badges with Glow Effect -->
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FastAPI-Specialist-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ReactJS-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-Architect-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Bootstrap-Designer-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poolasimhadri0-create&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="95%" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    📊 3D GITHUB STATS                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPmEGViE/giphy.gif" width="28"/> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<!-- 3D Contribution Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/main/profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<!-- Stats Cards Side by Side -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=poolasimhadri0-create&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=00D9FF&text_color=ffffff&border_radius=15&count_private=true&include_all_commits=true&ring_color=FF2D78" width="100%" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poolasimhadri0-create&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=FF2D78&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=15" width="100%" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Top Languages with Donut Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poolasimhadri0-create&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&border_radius=15&langs_count=8" width="38%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poolasimhadri0-create&bg_color=0d1117&color=7C3AED&line=00D9FF&point=FF2D78&area=true&area_color=7C3AED&hide_border=true&custom_title=📈%20Contribution%20Activity&title_color=ffffff&radius=15" width="100%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=poolasimhadri0-create&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     🛸 FEATURED PROJECTS                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp;Featured Projects
-
-<div align="center">
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<h3 align="center">🚀 FastAPI Backend Service</h3>
-<div align="center">
-<a href="https://github.com/poolasimhadri0-create" target="_blank"><img src="https://img.shields.io/badge/⚡_High%20Performance-REST%20API-009688?style=for-the-badge&labelColor=0d1117" alt="FastAPI"/></a>
-<br/><br/>
-<p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,mysql&theme=dark" alt="Tech Stack"/></a>
-</p>
-<p><em>High-performance REST API with JWT auth, MySQL integration, auto-docs & async endpoints</em></p>
-<a href="https://github.com/poolasimhadri0-create"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-</div>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">⚛️ React E-Commerce App</h3>
-<div align="center">
-<a href="https://github.com/poolasimhadri0-create" target="_blank"><img src="https://img.shields.io/badge/🛒_Modern-Shopping%20Platform-61DAFB?style=for-the-badge&labelColor=0d1117" alt="React"/></a>
-<br/><br/>
-<p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,javascript,bootstrap,css&theme=dark" alt="Tech Stack"/></a>
-</p>
-<p><em>Full-featured store with cart management, responsive UI, product filters & seamless UX</em></p>
-<a href="https://github.com/poolasimhadri0-create"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-</div>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3 align="center">🗄️ Student Records System</h3>
-<div align="center">
-<a href="https://github.com/poolasimhadri0-create" target="_blank"><img src="https://img.shields.io/badge/📚_Complete-CRUD%20App-4479A1?style=for-the-badge&labelColor=0d1117" alt="MySQL"/></a>
-<br/><br/>
-<p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,mysql,html,css&theme=dark" alt="Tech Stack"/></a>
-</p>
-<p><em>Full CRUD with search, filter, grade tracking, MySQL backend & clean tabular interface</em></p>
-<a href="https://github.com/poolasimhadri0-create"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-</div>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">📊 Inventory Dashboard</h3>
-<div align="center">
-<a href="https://github.com/poolasimhadri0-create" target="_blank"><img src="https://img.shields.io/badge/📦_Real--Time-Inventory%20Tracker-FF2D78?style=for-the-badge&labelColor=0d1117" alt="Dashboard"/></a>
-<br/><br/>
-<p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,react,mysql&theme=dark" alt="Tech Stack"/></a>
-</p>
-<p><em>Live inventory with stock alerts, product categories, analytics dashboard & responsive UI</em></p>
-<a href="https://github.com/poolasimhadri0-create"><img src="https://img.shields.io/badge/VIEW_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-</div>
-</td>
-
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  🏅 ACHIEVEMENTS & ROADMAP                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"/> &nbsp;Achievements & Roadmap
-
-<div align="center">
+## 🛠️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Achievements
-| | Achievement | Status |
-|:--:|:--|:--:|
-| 🐍 | Python Full Stack Development | ✅ |
-| ⚡ | FastAPI REST API Architecture | ✅ |
-| ⚛️ | ReactJS Frontend Development | ✅ |
-| 🗄️ | MySQL Database Design | ✅ |
-| 🎨 | Responsive UI with Bootstrap | ✅ |
-| 🔥 | Shipped Production Applications | ✅ |
+### 🥬 Fresh Grocery Vegetables
+> Modern, responsive grocery shopping website with fresh vegetables, fruits, dairy & daily essentials.
+
+**✨ Highlights**
+- 📱 Fully responsive design
+- 🛒 Shopping cart & featured products
+- ⭐ Testimonials & reviews
+- 📝 Blog section + clean UI
+
+**🛠️ Tech:** `HTML5` `CSS3` `JavaScript` `React.js`
+
+🔗 **[Live Demo →](https://groceryfresh.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Learning Roadmap
-```
-✅ MASTERED          🔄 LEARNING
-──────────────       ──────────────
-Python Core          TypeScript
-FastAPI              Docker
-ReactJS Basics       System Design
-MySQL                Advanced React
-HTML/CSS/JS          Cloud (AWS)
-Bootstrap            CI/CD Pipelines
-Git & GitHub         Testing
-REST APIs            Redis Caching
-```
+### 🏥 MediCore HMS
+> Full-stack Hospital Management System with role-based portals for Admins, Doctors & Patients.
+
+**✨ Highlights**
+- 🔐 Secure auth + role-based access
+- 👨‍⚕️ Doctor / 🧑 Patient / 🛡️ Admin portals
+- 📅 Appointment booking & approvals
+- ⚡ FastAPI REST APIs + SQLAlchemy ORM
+
+**🛠️ Tech:** `React` `Vite` `FastAPI` `SQLAlchemy` `SQLite`
+
+🔗 **Live Demo — coming soon**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💼 Simhadri Portfolio
+> Personal portfolio built with Vite — smooth animations, local video assets, fully responsive, with a working contact form.
+
+**🛠️ Tech:** `Vite` `JavaScript` `HTML5` `CSS3`  &nbsp;•&nbsp;  🔗 **[Live Demo →](https://simhadriportfolio.netlify.app/)**
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   ⚡ DEVELOPER IDENTITY                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## ⚡ &nbsp;Developer DNA
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐍_PYTHON-Core%20Language-3776AB?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚡_FASTAPI-High%20Perf%20APIs-009688?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚛️_REACTJS-Dynamic%20UIs-61DAFB?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🗄️_MYSQL-Data%20Architect-4479A1?style=for-the-badge&labelColor=0d1117" />
+## 🐍 Watch My Contributions Grow
 
-<br/>
-
-<img src="https://img.shields.io/badge/🎨_BOOTSTRAP-Responsive%20Design-7952B3?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔥_FULL%20STACK-End%20to%20End-FF2D78?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🛸_PROBLEM%20SOLVER-Algorithm%20Thinker-F7DF1E?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🌟_OPEN%20SOURCE-Contributor-22C55E?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     🌐 CONNECT WITH ME                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/simhadri-p-a2482035b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Poola%20Simhadri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/poolasimhadri0-create" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-poolasimhadri0--create-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:poolasimhadri@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-poolasimhadri-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
-</a>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-&nbsp;
-<em><b>I love connecting with developers and builders worldwide.</b><br/>
-If you want to collaborate on projects or just say hi — my inbox is always open!</em>
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/simhadri-p-a2482035b/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+</a>
+<a href="https://github.com/poolasimhadri0-create">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" />
+</a>
+
+<br/>
+
+### ⭐ *"Code. Create. Inspire."* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        🐍 SNAKE ANIMATION                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/poolasimhadri0-create/poolasimhadri0-create/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          🎬 FOOTER                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 💜&nbsp;If you find my work helpful, consider leaving a ⭐
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "First, solve the problem. Then, write the code."          ║
-║                              — John Johnson                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
-
-*Made with 💜 & ☕ by **Poola Simhadri** | 2026*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  📌 SETUP INSTRUCTIONS:                                     ║
-  ║                                                              ║
-  ║  1. Create repo: poolasimhadri0-create/poolasimhadri0-create ║
-  ║  2. Add README.md                                            ║
-  ║  3. Add .github/workflows/snake.yml (snake animation)        ║
-  ║  4. Add .github/workflows/3d-contrib.yml (3D calendar)       ║
-  ║  5. Push → Go to Actions → Run both workflows                ║
-  ║  6. Your animated 3D profile is LIVE! 🎉                     ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
