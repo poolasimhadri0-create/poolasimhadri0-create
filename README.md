@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🌐 3D Animated Showcase
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=600&color=00F5D4&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8C%90+3D+Animated+Showcase;%E2%9C%A8+Motion+%E2%80%A2+Depth+%E2%80%A2+Energy" />
 
 <table border="0">
 <tr>
@@ -84,7 +84,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=600&color=F75C7E&width=500&height=55&lines=%F0%9F%9A%80+About+Me" />
 
 ```python
 class PoolaSimhadri:
@@ -117,7 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🧠 Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=600&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%A7%A0+Tech+Stack+%26+Tools;%E2%9A%A1+Languages+%E2%80%A2+Frameworks+%E2%80%A2+Tools" />
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,bootstrap,mysql,sqlite,git,github,vscode,vite,vercel&perline=7" />
 
@@ -135,7 +135,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=600&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%93%8A+GitHub+Analytics;%F0%9F%94%A5+Live+Stats+%26+Streaks" />
 
 <a href="https://github.com/poolasimhadri0-create">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=poolasimhadri0-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
@@ -160,7 +160,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ Featured Projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=600&color=FFB703&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+Featured+Projects;%F0%9F%92%A1+Crafted+with+Passion" />
+</div>
 
 <table>
 <tr>
@@ -213,13 +215,13 @@ me.say_hi()
 
 <div align="center">
 
-## 🐍 Watch My Contributions Grow
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=600&color=43E97B&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%90%8D+Watch+My+Contributions+Grow" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 <br/><br/>
 
-## 🤝 Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=600&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%A4%9D+Let's+Connect;%F0%9F%92%AC+Open+to+Collaborations" />
 
 <a href="https://www.linkedin.com/in/simhadri-p-a2482035b/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
